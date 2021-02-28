@@ -1,0 +1,24 @@
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\Easy Wordlist Generator\bin\Debug\Easy Wordlist Generator.exe.config
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\Easy Wordlist Generator\bin\Debug\Easy Wordlist Generator.exe
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\Easy Wordlist Generator\bin\Debug\Easy Wordlist Generator.pdb
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\Easy Wordlist Generator\bin\Debug\Easy Wordlist Generator.xml
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\Easy Wordlist Generator\obj\Debug\Easy Wordlist Generator.vbprojAssemblyReference.cache
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\Easy Wordlist Generator\obj\Debug\Easy_Wordlist_Generator.Form1.resources
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\Easy Wordlist Generator\obj\Debug\Easy_Wordlist_Generator.Resources.resources
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\Easy Wordlist Generator\obj\Debug\Easy Wordlist Generator.vbproj.GenerateResource.cache
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\Easy Wordlist Generator\obj\Debug\Easy Wordlist Generator.vbproj.CoreCompileInputs.cache
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\Easy Wordlist Generator\obj\Debug\Easy Wordlist Generator.exe
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\Easy Wordlist Generator\obj\Debug\Easy Wordlist Generator.xml
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\Easy Wordlist Generator\obj\Debug\Easy Wordlist Generator.pdb
+C:\Users\TAO_Croatia\source\repos\Easy Wordlist Generator\Easy Wordlist Generator\bin\Debug\Easy Wordlist Generator.exe.config
+C:\Users\TAO_Croatia\source\repos\Easy Wordlist Generator\Easy Wordlist Generator\bin\Debug\Easy Wordlist Generator.exe
+C:\Users\TAO_Croatia\source\repos\Easy Wordlist Generator\Easy Wordlist Generator\bin\Debug\Easy Wordlist Generator.pdb
+C:\Users\TAO_Croatia\source\repos\Easy Wordlist Generator\Easy Wordlist Generator\bin\Debug\Easy Wordlist Generator.xml
+C:\Users\TAO_Croatia\source\repos\Easy Wordlist Generator\Easy Wordlist Generator\obj\Debug\Easy Wordlist Generator.vbprojAssemblyReference.cache
+C:\Users\TAO_Croatia\source\repos\Easy Wordlist Generator\Easy Wordlist Generator\obj\Debug\Easy_Wordlist_Generator.Form1.resources
+C:\Users\TAO_Croatia\source\repos\Easy Wordlist Generator\Easy Wordlist Generator\obj\Debug\Easy_Wordlist_Generator.Resources.resources
+C:\Users\TAO_Croatia\source\repos\Easy Wordlist Generator\Easy Wordlist Generator\obj\Debug\Easy Wordlist Generator.vbproj.GenerateResource.cache
+C:\Users\TAO_Croatia\source\repos\Easy Wordlist Generator\Easy Wordlist Generator\obj\Debug\Easy Wordlist Generator.vbproj.CoreCompileInputs.cache
+C:\Users\TAO_Croatia\source\repos\Easy Wordlist Generator\Easy Wordlist Generator\obj\Debug\Easy Wordlist Generator.exe
+C:\Users\TAO_Croatia\source\repos\Easy Wordlist Generator\Easy Wordlist Generator\obj\Debug\Easy Wordlist Generator.xml
+C:\Users\TAO_Croatia\source\repos\Easy Wordlist Generator\Easy Wordlist Generator\obj\Debug\Easy Wordlist Generator.pdb
